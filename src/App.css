@@ -1,0 +1,57 @@
+.header1{
+  margin-bottom: 4vw;
+}
+.innertext{
+  margin-left: 5vw;
+}
+.divs{
+  display: inline-block;
+ 
+}
+.divs2{
+  display: inline-block;
+  float: right;
+}
+
+
+.links{
+  padding: 13px;
+  color: rgb(0, 0, 0);
+  
+}
+
+.navba :hover{
+  background-color: aliceblue;
+  border: 1px solid;
+}
+.navba{
+  margin-left: auto;
+}
+
+.homediv{
+  margin: 20rem;
+}
+
+
+
+.servi{
+  color: black;
+}
+
+.location{
+  text-align: left;
+  color: rgb(3, 3, 3);
+  
+
+  
+}
+
+.teams{
+  color: rgb(0, 0, 0);
+  
+}
+
+.appoint{
+  color: rgb(0,0,0);
+}
+
