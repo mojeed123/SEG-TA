@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SEG-TA/static/css/main.c8fe83cd.css",
+    "main.js": "/SEG-TA/static/js/main.f0bbe7b0.js",
+    "static/js/787.7efd31bd.chunk.js": "/SEG-TA/static/js/787.7efd31bd.chunk.js",
+    "static/media/pexels-josh-sorenson-995300.jpg": "/SEG-TA/static/media/pexels-josh-sorenson-995300.7a1517975b0b90d0c8c7.jpg",
+    "index.html": "/SEG-TA/index.html",
+    "main.c8fe83cd.css.map": "/SEG-TA/static/css/main.c8fe83cd.css.map",
+    "main.f0bbe7b0.js.map": "/SEG-TA/static/js/main.f0bbe7b0.js.map",
+    "787.7efd31bd.chunk.js.map": "/SEG-TA/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8fe83cd.css",
+    "static/js/main.f0bbe7b0.js"
+  ]
+}
