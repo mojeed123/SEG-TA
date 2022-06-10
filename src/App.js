@@ -6,6 +6,7 @@ import Location from './Location';
 import Services from './Services';
 import Teams from './Teams';
 import Confirmation from './Confirmation';
+import NotFound from './NotFound';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/teams" exact element={<Teams />}></Route>
           <Route path="/appointment" exact element={<Appointment />}></Route>
           <Route path="/confirmation" exact element={<Confirmation />}></Route>
+          <Route path="*" element={<NotFound />}></Route>
         </Routes>
       </Router>
     </div>
