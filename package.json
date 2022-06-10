@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mojeed123.github.io/SEG31",
+  "homepage": "https://mojeed123.github.io/SEG31/",
   "name": "barber",
   "version": "0.1.0",
   "private": true,
@@ -29,6 +29,8 @@
       "react-app/jest"
     ]
   },
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
   "browserslist": {
     "production": [
       ">0.2%",

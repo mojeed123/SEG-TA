@@ -12,12 +12,12 @@ function App() {
     <div className="App">
       <Router>
         <Routes>
-          <Route path="/SEG31" exact element={<Home/>}></Route>
-          <Route path="/SEG31/location" exact element={<Location/>}></Route>
-          <Route path="/SEG31/services" exact element={<Services/>}></Route>
-          <Route path="/SEG31/teams" exact element={<Teams/>}></Route>
-          <Route path="/SEG31/appointment" exact element={<Appointment/>}></Route>
-          <Route path="/SEG31/confirmation" exact element={<Confirmation/>}></Route>
+          <Route path="/" exact element={<Home />}></Route>
+          <Route path="/location" exact element={<Location />}></Route>
+          <Route path="/services" exact element={<Services />}></Route>
+          <Route path="/teams" exact element={<Teams />}></Route>
+          <Route path="/appointment" exact element={<Appointment />}></Route>
+          <Route path="/confirmation" exact element={<Confirmation />}></Route>
         </Routes>
       </Router>
     </div>
